@@ -1,5 +1,3 @@
-# Inhoud van deze repo
-Deze repo bevat de technische verwezenlijking van mijn bachelorproef, deze bachelorproef met daarin alle nodige uitleg is ook in deze repo te vinden.
-Het gecreëerde systeem is vertrokken vanaf de tool GazeTracking gemaakt door Antoine Lamé.
-
-Het bevat een systeem dat de ogen volgt en op basis van de riching van het blikpunt, de muis in de juiste richting stuurt.
+# Technical implementation - Bachelor thesis
+This repo contains the proof of concept of my bachelor thesis. The thesis itself is also included in this repository.
+The created system started with the tool GazeTracking, created by Antoine Lamé. The system tracks the users eyes and moves the mouse based on gaze estimation calculations. When blinking, the user will perform a mouse click-action
